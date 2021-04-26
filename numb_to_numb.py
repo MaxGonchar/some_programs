@@ -1,7 +1,8 @@
-from itertools import permutations
 import re
 import sys
 import time
+
+from itertools import permutations
 
 
 # excludes variants with element's format "01", "00", "0000" etc
